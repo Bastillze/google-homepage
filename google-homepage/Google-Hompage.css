@@ -1,0 +1,42 @@
+.nav{
+float: right;
+
+}
+
+ul {
+
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+li {
+   float: right;
+}
+
+a {
+   display: inline-flex;
+   padding: 8px;
+   
+  
+}
+
+#container-fluid{
+   display: flex;
+   width: 634px;
+   margin-left: auto;
+   margin-right: auto;
+   padding:20px;
+}
+
+img{
+
+   margin: auto;
+}
+
+.search-container{
+
+  display: inline-flex;
+  margin-left: 329px;
+  align-content: center;
+}
